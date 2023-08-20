@@ -3,6 +3,8 @@
 </header>
 <div align ="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 # 🚀Daniel Stumm 
 Olá! Meu nome é Daniel, sou fascinado por criar soluções inovadoras por meio do código, aos 23 anos decidi embarcar na jornada da programação, utilizando do curso CS50, oferecida pela Harvard onde eu aprendi os fundamentais da programação em baixo nível usando a linguagem C para desenvolver algoritmos e estrutura de dados, também desenvolvi aplicativos com python, flask e SQL, incluindo o meu projeto final com front-end e back-end completos. Estou atualmente cursando CS50AI e a Bootcamp da Santander e buscando por oportunidades de emprego no setor tech.
 
@@ -21,7 +23,7 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 
 
 <div class="imgContainer">
-  <i class="devicon-python-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <div class="imgContainer">
   <i class="devicon-flask-original-wordmark"></i>
@@ -48,15 +50,3 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 Wellness50 é o um task-manager focado em saúde mental e bem estar, com mensagens motivacionais e um diário, o aplicativo foi feito utilizando python com o modulo flask para gerenciar todos os formulários e demais funcionalidades do aplicativo.
 O aplicativo também conta com um sistema de usuário que é persistente durante sessões, utilizando sqlite3 para interagir com uma DB montada especificamente para o site. 
 
-
-</div>
-<style>
-.imgContainer{
-    width: 16.666%;
-    float: left;
-}
-i {
-  font-size: 70px
-}
-
-</style>
