@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 <div align ="center">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 # 🚀Daniel Stumm 
 Olá! Meu nome é Daniel, sou fascinado por criar soluções inovadoras por meio do código, aos 23 anos decidi embarcar na jornada da programação, utilizando do curso CS50, oferecida pela Harvard onde eu aprendi os fundamentais da programação em baixo nível usando a linguagem C para desenvolver algoritmos e estrutura de dados, também desenvolvi aplicativos com python, flask e SQL, incluindo o meu projeto final com front-end e back-end completos. Estou atualmente cursando CS50AI e a Bootcamp da Santander e buscando por oportunidades de emprego no setor tech.
 
