@@ -49,3 +49,13 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 Wellness50 é o um task-manager focado em saúde mental e bem estar, com mensagens motivacionais e um diário, o aplicativo foi feito utilizando python com o modulo flask para gerenciar todos os formulários e demais funcionalidades do aplicativo.
 O aplicativo também conta com um sistema de usuário que é persistente durante sessões, utilizando sqlite3 para interagir com uma DB montada especificamente para o site. 
 
+<style>
+.imgContainer{
+    width: 16.666%;
+    float: left;
+}
+i {
+  font-size: 70px
+}
+
+</style>
