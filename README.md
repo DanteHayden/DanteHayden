@@ -22,24 +22,12 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 ## Habilidades
 
 
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-</div>
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
-</div>
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</div>
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-</div>
-<div class="imgContainer">
-  <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-</div>
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 
 </br></br></br></br></br>
 
@@ -49,13 +37,3 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 Wellness50 é o um task-manager focado em saúde mental e bem estar, com mensagens motivacionais e um diário, o aplicativo foi feito utilizando python com o modulo flask para gerenciar todos os formulários e demais funcionalidades do aplicativo.
 O aplicativo também conta com um sistema de usuário que é persistente durante sessões, utilizando sqlite3 para interagir com uma DB montada especificamente para o site. 
 
-<style>
-.imgContainer{
-    width: 16.666%;
-    float: left;
-}
-i {
-  font-size: 70px
-}
-
-</style>
