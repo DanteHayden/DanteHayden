@@ -29,7 +29,7 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 
-</br>
+</br> </br>
 
 ## 📝Meus projetos
 
