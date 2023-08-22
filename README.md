@@ -19,7 +19,7 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 
 </br>
 
-## Habilidades
+## 🦾Habilidades
 
 
 <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,7 +31,7 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
 
 </br>
 
-## Meus projetos
+## 📝Meus projetos
 
 ### <a href="https://github.com/DanteHayden/wellness50">Wellness 50</a>
 Wellness50 é o um task-manager focado em saúde mental e bem estar, com mensagens motivacionais e um diário, o aplicativo foi feito utilizando python com o modulo flask para gerenciar todos os formulários e demais funcionalidades do aplicativo.
