@@ -17,9 +17,9 @@ Além das minhas habilidades de programação sou fluente em Inglês, treinado e
   <a href = "mailto:danielstumm10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-stumm-081309271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</br>
+</br> </br>
 
-## 🦾Habilidades
+## 💪🏻Habilidades
 
 
 <img width=70 lenth=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
