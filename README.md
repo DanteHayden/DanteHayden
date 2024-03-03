@@ -6,8 +6,7 @@
 
 
 # 🚀Daniel Stumm 
-Olá! Meu nome é Daniel, sou fascinado por criar soluções inovadoras por meio do código, aos 23 anos decidi embarcar na jornada da programação, utilizando do curso CS50, oferecida pela Harvard onde eu aprendi os fundamentais da programação em baixo nível usando a linguagem C para desenvolver algoritmos e estrutura de dados, também desenvolvi aplicativos com python, flask e SQL, incluindo o meu projeto final com front-end e back-end completos. Estou atualmente cursando CS50AI e a Bootcamp da Santander e buscando por oportunidades de emprego no setor tech.
-
+Olá! Meu nome é Daniel, sou fascinado por criar soluções inovadoras por meio do código, aos 23 anos decidi embarcar na jornada da programação, utilizando do curso CS50, oferecida pela Harvard onde eu aprendi os fundamentais da programação em baixo nível usando a linguagem C para desenvolver algoritmos e estrutura de dados, também desenvolvi aplicativos com python, flask e SQL, incluindo o meu projeto final com front-end e back-end completos. Estou atualmente cursando engenharia de software e desenvolvendo pequenos projetos programação.
 Além das minhas habilidades de programação sou fluente em Inglês, treinado em vendas, proficiente no pacote office com experiência em design gráfico e demais outras habilidades que podem ser de uso para o desenvolvimento de projetos.
 
 </br>
